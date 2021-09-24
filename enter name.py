@@ -1,0 +1,8 @@
+print("enter your name")
+x = input()
+print("hello, ", x)
+print("typ hier je som")
+y = input()
+l = input()
+z = int(y)*int(l)
+print(z)
